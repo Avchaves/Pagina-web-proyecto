@@ -1,0 +1,23 @@
+﻿form{
+    padding: 10px 35px;
+    box-shadow: 0 0 20px;
+    max-width: 250px;
+    margin:  auto;
+    margin-left: 150px;
+    border-radius: 10px;
+    left: 0%;
+    top:170px;
+   
+
+}   
+
+table {
+    width: 200px;
+    height: 200px;
+    left: 600px;
+    background: #6c571c;
+    color: white;
+    top: 170px;
+    position: absolute;
+}
+
